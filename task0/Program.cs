@@ -1,6 +1,6 @@
 ﻿// Получить квадрат числа
 
-int num = 5;
+int num = int.Parse(Console.ReadLine());
 int numResult = num * num;
 
 Console.WriteLine(numResult);
